@@ -1,3 +1,6 @@
+=======
+rails_blog
+==========
 1. rails new blog
 2. rails generate controller home index
 3. root :to => 'home#index' (uncomment in config/routes.rb this tells to go to
